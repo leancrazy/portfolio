@@ -55,79 +55,79 @@ const initialPortfolioItems: PortfolioItem[] = [
   {
     id: '1',
     title: {
-      en: 'akjsfdakkf',
-      de: 'Kreatives Design-Projekt'
+      en: 'UI/UX Portfolio (Figma)',
+      de: 'UI/UX‑Portfolio (Figma)'
     },
     description: {
-      en: 'A minimalist design approach showcasing modern aesthetics',
-      de: 'Ein minimalistischer Designansatz mit modernen Ästhetik'
+      en: 'Selected UI kits, component libraries and product screens designed in Figma.',
+      de: 'Ausgewählte UI‑Kits, Komponenten‑Bibliotheken und Produkt‑Screens in Figma.'
     },
-    image: 'https://images.unsplash.com/photo-1700887937204-69f8b8400ace?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjcmVhdGl2ZSUyMGRlc2lnbiUyMHByb2plY3R8ZW58MXx8fHwxNzU2NTg2MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-    link: '#'
+    image: '/images/portfolio/figma-ui-kit.jpg',
+    link: 'https://www.figma.com/board/fU2P2Vg1moT018IPE4hUku/Alfred-Klimov-Portfolio?node-id=0-1&p=f&t=rrYyfGgfMcV40GMb-0'
   },
   {
     id: '2',
     title: {
-      en: 'Web Development',
-      de: 'Web-Entwicklung'
+      en: '3D Product Visuals (Blender)',
+      de: '3D‑Produktvisualisierungen (Blender)'
     },
     description: {
-      en: 'Full-stack web application with modern technologies',
-      de: 'Full-Stack-Webanwendung mit modernen Technologien'
+      en: 'Hard‑surface models, lighting and renders for product & motion use.',
+      de: 'Hard‑Surface‑Modelle, Beleuchtung und Renderings für Produkt & Motion.'
     },
-    image: 'https://images.unsplash.com/photo-1546900703-cf06143d1239?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3ZWIlMjBkZXZlbG9wbWVudCUyMGNvZGV8ZW58MXx8fHwxNzU2NTg1MzM3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-    link: '#'
+    image: '/images/portfolio/blender-product-visual.jpg',
+    link: 'https://www.figma.com/board/fU2P2Vg1moT018IPE4hUku/Alfred-Klimov-Portfolio?node-id=0-1&p=f&t=rrYyfGgfMcV40GMb-0'
   },
   {
     id: '3',
     title: {
-      en: 'Sound Engineering',
-      de: 'Sound Engineering'
+      en: '2D Graphic Design (Photoshop)',
+      de: '2D‑Grafikdesign (Photoshop)'
     },
     description: {
-      en: 'Professional audio production and mixing projects',
-      de: 'Professionelle Audioproduktion und Mixing-Projekte'
+      en: 'Posters, promo assets, photo retouching and compositing.',
+      de: 'Poster, Promo‑Assets, Fotoretusche und Compositing.'
     },
-    image: 'https://images.unsplash.com/photo-1635961074197-47a7d7c15938?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzb3VuZCUyMGVuZ2luZWVyaW5nJTIwc3R1ZGlvfGVufDF8fHx8MTc1NjY1ODYzNXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-    link: '#'
+    image: '/images/portfolio/photoshop-retouch.jpg',
+    link: 'https://www.figma.com/board/fU2P2Vg1moT018IPE4hUku/Alfred-Klimov-Portfolio?node-id=0-1&p=f&t=rrYyfGgfMcV40GMb-0'
   },
   {
     id: '4',
     title: {
-      en: 'Motion Graphics',
-      de: 'Motion Graphics'
+      en: 'Web Development — Laguna Paradise',
+      de: 'Web‑Entwicklung — Laguna Paradise'
     },
     description: {
-      en: 'Dynamic visual storytelling through motion design',
-      de: 'Dynamisches visuelles Storytelling durch Motion Design'
+      en: 'Booking platform UI and backend integration (Next.js/Django).',
+      de: 'Buchungs‑Plattform‑UI und Backend‑Integration (Next.js/Django).'
     },
-    image: 'https://images.unsplash.com/photo-1676238560626-45d35b63b38f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb3Rpb24lMjBncmFwaGljcyUyMGRlc2lnbnxlbnwxfHx8fDE3NTY2MzQ4OTB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+    image: '/images/portfolio/laguna-paradise-web.jpg',
     link: '#'
   },
   {
     id: '5',
     title: {
-      en: 'AI Integration',
-      de: 'KI-Integration'
+      en: "DROP’EM ALL — Telegram WebApp",
+      de: "DROP’EM ALL — Telegram‑WebApp"
     },
     description: {
-      en: 'Innovative AI-powered creative solutions',
-      de: 'Innovative KI-gestützte kreative Lösungen'
+      en: 'Referral flows, payment UX and roulette mechanics for a Telegram app.',
+      de: 'Referral‑Flows, Payment‑UX und Roulette‑Mechaniken für eine Telegram‑App.'
     },
-    image: 'https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwdGVjaG5vbG9neXxlbnwxfHx8fDE3NTY2Mjc2MTB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+    image: '/images/portfolio/dropemall-webapp.jpg',
     link: '#'
   },
   {
     id: '6',
     title: {
-      en: 'Digital Workspace',
-      de: 'Digitaler Arbeitsplatz'
+      en: 'Social Media Posts & Campaigns',
+      de: 'Social‑Media‑Posts & Kampagnen'
     },
     description: {
-      en: 'Clean and efficient digital workspace design',
-      de: 'Sauberes und effizientes digitales Arbeitsplatz-Design'
+      en: 'Content design for posts/stories, motion snippets and ad creatives.',
+      de: 'Content‑Design für Posts/Stories, Motion‑Snippets und Anzeigen‑Creatives.'
     },
-    image: 'https://images.unsplash.com/photo-1511752229301-31156e2e6b09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtaW5pbWFsJTIwcG9ydGZvbGlvJTIwZGVzaWduJTIwd29ya3NwYWNlfGVufDF8fHx8MTc1NjY1ODYyN3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+    image: '/images/portfolio/social-posts-grid.jpg',
     link: '#'
   }
 ];
