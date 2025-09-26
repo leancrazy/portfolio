@@ -75,7 +75,7 @@ const initialPortfolioItems: PortfolioItem[] = [
       en: 'Hard‑surface models, lighting and renders for product & motion use.',
       de: 'Hard‑Surface‑Modelle, Beleuchtung und Renderings für Produkt & Motion.'
     },
-    image: 'https://i.imgur.com/7rqC1wq.jpeg',
+    image: 'https://code.blender.org/wp-content/uploads/2024/02/rignodes.webp',
     link: 'https://i.imgur.com/cqgJbUc.mp4'
   },
   {
