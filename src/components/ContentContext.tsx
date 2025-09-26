@@ -55,15 +55,15 @@ const initialPortfolioItems: PortfolioItem[] = [
   {
     id: '1',
     title: {
-      en: 'UI/UX Portfolio (Figma)',
-      de: 'UI/UX‑Portfolio (Figma)'
+      en: 'Web Development Portfolio page (Vercel/react)',
+      de: 'Web Entwicklung Portfolio page (Vercel/react)'
     },
     description: {
-      en: 'Selected UI kits, component libraries and product screens designed in Figma.',
-      de: 'Ausgewählte UI‑Kits, Komponenten‑Bibliotheken und Produkt‑Screens in Figma.'
+      en: 'A personal portfolio website built with React and deployed on Vercel to showcase design and development projects.',
+      de: 'Eine persönliche Portfolio-Website, erstellt mit React und auf Vercel bereitgestellt, um Design- und Entwicklungsprojekte zu präsentieren.'
     },
-    image: '/images/portfolio/figma-ui-kit.jpg',
-    link: 'https://www.figma.com/board/fU2P2Vg1moT018IPE4hUku/Alfred-Klimov-Portfolio?node-id=0-1&p=f&t=rrYyfGgfMcV40GMb-0'
+    image: 'https://i.imgur.com/vcrQ7Qh.png',
+    link: '#'
   },
   {
     id: '2',
@@ -75,8 +75,8 @@ const initialPortfolioItems: PortfolioItem[] = [
       en: 'Hard‑surface models, lighting and renders for product & motion use.',
       de: 'Hard‑Surface‑Modelle, Beleuchtung und Renderings für Produkt & Motion.'
     },
-    image: '/images/portfolio/blender-product-visual.jpg',
-    link: 'https://www.figma.com/board/fU2P2Vg1moT018IPE4hUku/Alfred-Klimov-Portfolio?node-id=0-1&p=f&t=rrYyfGgfMcV40GMb-0'
+    image: 'https://i.imgur.com/7rqC1wq.jpeg',
+    link: 'https://i.imgur.com/cqgJbUc.mp4'
   },
   {
     id: '3',
@@ -88,48 +88,48 @@ const initialPortfolioItems: PortfolioItem[] = [
       en: 'Posters, promo assets, photo retouching and compositing.',
       de: 'Poster, Promo‑Assets, Fotoretusche und Compositing.'
     },
-    image: '/images/portfolio/photoshop-retouch.jpg',
+    image: 'https://i.imgur.com/6Am4Q0m.jpeg',
     link: 'https://www.figma.com/board/fU2P2Vg1moT018IPE4hUku/Alfred-Klimov-Portfolio?node-id=0-1&p=f&t=rrYyfGgfMcV40GMb-0'
   },
-  {
+{
     id: '4',
     title: {
-      en: 'Web Development — Laguna Paradise',
-      de: 'Web‑Entwicklung — Laguna Paradise'
+      en: 'Music Video Editing',
+      de: 'Musikvideo-Schnitt'
     },
     description: {
-      en: 'Booking platform UI and backend integration (Next.js/Django).',
-      de: 'Buchungs‑Plattform‑UI und Backend‑Integration (Next.js/Django).'
+      en: 'Creative editing and post-production of a music video project.',
+      de: 'Kreativer Schnitt und Postproduktion eines Musikvideoprojekts.'
     },
-    image: '/images/portfolio/laguna-paradise-web.jpg',
-    link: '#'
+    image: 'https://i.imgur.com/7rqC1wq.jpeg',
+    link: 'https://i.imgur.com/6IACu3Y.mp4'
   },
-  {
-    id: '5',
-    title: {
-      en: "DROP’EM ALL — Telegram WebApp",
-      de: "DROP’EM ALL — Telegram‑WebApp"
-    },
-    description: {
-      en: 'Referral flows, payment UX and roulette mechanics for a Telegram app.',
-      de: 'Referral‑Flows, Payment‑UX und Roulette‑Mechaniken für eine Telegram‑App.'
-    },
-    image: '/images/portfolio/dropemall-webapp.jpg',
-    link: '#'
+{
+  id: '5',
+  title: {
+    en: 'UI/UX Design — Crypto Landing Page',
+    de: 'UI/UX-Design — Krypto-Landingpage'
   },
-  {
-    id: '6',
-    title: {
-      en: 'Social Media Posts & Campaigns',
-      de: 'Social‑Media‑Posts & Kampagnen'
-    },
-    description: {
-      en: 'Content design for posts/stories, motion snippets and ad creatives.',
-      de: 'Content‑Design für Posts/Stories, Motion‑Snippets und Anzeigen‑Creatives.'
-    },
-    image: '/images/portfolio/social-posts-grid.jpg',
-    link: '#'
-  }
+  description: {
+    en: 'Landing page concept designed in Figma for a crypto website, focusing on clean UI and user experience.',
+    de: 'In Figma entworfenes Landingpage-Konzept für eine Krypto-Website mit Fokus auf klares UI und Benutzererlebnis.'
+  },
+  image: 'https://i.imgur.com/vSUqjHN.png',
+  link: 'https://www.figma.com/design/GSPoKXF3w8wg2nH2ULTpNV/CAPITAL8?node-id=344-13006&p=f&t=qLbPKJG9PWq7kbZs-0'
+},
+{
+  id: '6',
+  title: {
+    en: 'UI/UX Design — Capital8 Platform',
+    de: 'UI/UX-Design — Capital8-Plattform'
+  },
+  description: {
+    en: 'Figma project for the Capital8 platform with a modern interface and consistent design system.',
+    de: 'Figma-Projekt für die Capital8-Plattform mit moderner Benutzeroberfläche und konsistentem Designsystem.'
+  },
+  image: 'https://i.imgur.com/KOeajhB.png',
+  link: 'https://www.figma.com/design/GSPoKXF3w8wg2nH2ULTpNV/CAPITAL8?node-id=0-1&t=qLbPKJG9PWq7kbZs-1'
+}
 ];
 
 const initialSkillCategories: SkillCategory[] = [
