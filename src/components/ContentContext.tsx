@@ -88,7 +88,7 @@ const initialPortfolioItems: PortfolioItem[] = [
       en: 'Posters, promo assets, photo retouching and compositing.',
       de: 'Poster, Promo‑Assets, Fotoretusche und Compositing.'
     },
-    image: '/images/portfolio/2xdonate.png',
+    image: '/images/portfolio/2xdonate.jpeg',
     link: 'https://www.figma.com/board/fU2P2Vg1moT018IPE4hUku/Alfred-Klimov-Portfolio?node-id=0-1&p=f&t=rrYyfGgfMcV40GMb-0'
   },
 {
@@ -101,7 +101,7 @@ const initialPortfolioItems: PortfolioItem[] = [
       en: 'Creative editing and post-production of a music video project.',
       de: 'Kreativer Schnitt und Postproduktion eines Musikvideoprojekts.'
     },
-    image: '/images/portfolio/clip.png',
+    image: '/images/portfolio/clip.jpeg',
     link: '/images/portfolio/clip.mp4'
   },
 {
