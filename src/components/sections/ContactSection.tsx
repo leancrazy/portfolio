@@ -119,10 +119,10 @@ export function ContactSection() {
                     {t('contact.phone')}
                   </div>
                   <a 
-                    href="tel:+436776102964"
+                    href="tel:+436701896338"
                     className="text-xl md:text-2xl hover:text-gray-600 transition-colors duration-300 font-medium"
                   >
-                    +43 677 61029644
+                    +436701896338
                   </a>
                 </div>
               </div>
