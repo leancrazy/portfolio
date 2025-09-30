@@ -62,7 +62,7 @@ const initialPortfolioItems: PortfolioItem[] = [
       en: 'A personal portfolio website built with React and deployed on Vercel to showcase design and development projects.',
       de: 'Eine persönliche Portfolio-Website, erstellt mit React und auf Vercel bereitgestellt, um Design- und Entwicklungsprojekte zu präsentieren.'
     },
-    image: 'https://i.imgur.com/vcrQ7Qh.png',
+    image: '/images/portfolio/alfred-portfolio.png',
     link: '#'
   },
   {
@@ -75,8 +75,8 @@ const initialPortfolioItems: PortfolioItem[] = [
       en: 'Hard‑surface models, lighting and renders for product & motion use.',
       de: 'Hard‑Surface‑Modelle, Beleuchtung und Renderings für Produkt & Motion.'
     },
-    image: 'https://code.blender.org/wp-content/uploads/2024/02/rignodes.webp',
-    link: 'https://i.imgur.com/cqgJbUc.mp4'
+    image: '/images/portfolio/blender.webp',
+    link: '/images/portfolio/blender.mp4'
   },
   {
     id: '3',
@@ -88,7 +88,7 @@ const initialPortfolioItems: PortfolioItem[] = [
       en: 'Posters, promo assets, photo retouching and compositing.',
       de: 'Poster, Promo‑Assets, Fotoretusche und Compositing.'
     },
-    image: 'https://i.imgur.com/6Am4Q0m.jpeg',
+    image: '/images/portfolio/2xdonate.png',
     link: 'https://www.figma.com/board/fU2P2Vg1moT018IPE4hUku/Alfred-Klimov-Portfolio?node-id=0-1&p=f&t=rrYyfGgfMcV40GMb-0'
   },
 {
@@ -101,8 +101,8 @@ const initialPortfolioItems: PortfolioItem[] = [
       en: 'Creative editing and post-production of a music video project.',
       de: 'Kreativer Schnitt und Postproduktion eines Musikvideoprojekts.'
     },
-    image: 'https://i.imgur.com/7rqC1wq.jpeg',
-    link: 'https://i.imgur.com/6IACu3Y.mp4'
+    image: '/images/portfolio/clip.png',
+    link: '/images/portfolio/clip.mp4'
   },
 {
   id: '5',
@@ -114,7 +114,7 @@ const initialPortfolioItems: PortfolioItem[] = [
     en: 'Landing page concept designed in Figma for a crypto website, focusing on clean UI and user experience.',
     de: 'In Figma entworfenes Landingpage-Konzept für eine Krypto-Website mit Fokus auf klares UI und Benutzererlebnis.'
   },
-  image: 'https://i.imgur.com/vSUqjHN.png',
+  image: '/images/portfolio/fort9.png',
   link: 'https://www.figma.com/design/GSPoKXF3w8wg2nH2ULTpNV/CAPITAL8?node-id=344-13006&p=f&t=qLbPKJG9PWq7kbZs-0'
 },
 {
@@ -127,7 +127,7 @@ const initialPortfolioItems: PortfolioItem[] = [
     en: 'Figma project for the Capital8 platform with a modern interface and consistent design system.',
     de: 'Figma-Projekt für die Capital8-Plattform mit moderner Benutzeroberfläche und konsistentem Designsystem.'
   },
-  image: 'https://i.imgur.com/KOeajhB.png',
+  image: '/images/portfolio/capital8.png',
   link: 'https://www.figma.com/design/GSPoKXF3w8wg2nH2ULTpNV/CAPITAL8?node-id=0-1&t=qLbPKJG9PWq7kbZs-1'
 }
 ];
