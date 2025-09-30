@@ -233,14 +233,6 @@ const initialExperienceItems: ExperienceItem[] = [
   }
 },
 {
-  id: 'exp-07',
-  period: '2024',
-  title: {
-    en: "DROP’EM ALL — Telegram WebApp (flows, payments, UX)",
-    de: "DROP’EM ALL — Telegram-WebApp (Flows, Payments, UX)"
-  }
-},
-{
   id: 'exp-08',
   period: '2024',
   title: {
