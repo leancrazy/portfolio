@@ -221,8 +221,49 @@ const initialExperienceItems: ExperienceItem[] = [
       en: 'Freelance Projects — Web Design & Development, Creative Projects',
       de: 'Freelance Projekte — Webdesign & Entwicklung, Kreative Projekte'
     },
-    period: '2021-Present'
+    period: '2019-Present'
+  },
+  // примерные элементы — подставь свои формулировки
+{
+  id: 'exp-06',
+  period: '2025',
+  title: {
+    en: 'Laguna Paradise — Booking platform (UI/UX & integration)',
+    de: 'Laguna Paradise — Buchungsplattform (UI/UX & Integration)'
   }
+},
+{
+  id: 'exp-07',
+  period: '2024',
+  title: {
+    en: "DROP’EM ALL — Telegram WebApp (flows, payments, UX)",
+    de: "DROP’EM ALL — Telegram-WebApp (Flows, Payments, UX)"
+  }
+},
+{
+  id: 'exp-08',
+  period: '2024',
+  title: {
+    en: 'Capital8 — Crypto landing & platform UI (Figma)',
+    de: 'Capital8 — Krypto-Landing & Plattform-UI (Figma)'
+  }
+},
+{
+  id: 'exp-09',
+  period: '2025-present',
+  title: {
+    en: 'Magic Wet Wipes — Branding, packaging & promo',
+    de: 'Magic Wet Wipes — Branding, Verpackung & Promo'
+  }
+},
+{
+  id: 'exp-10',
+  period: '2023-present',
+  title: {
+    en: 'Music video editing — Creative cut & post-production',
+    de: 'Musikvideo-Schnitt — Kreativer Cut & Postproduktion'
+  }
+}
 ];
 
 interface ContentProviderProps {
