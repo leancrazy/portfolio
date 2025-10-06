@@ -140,7 +140,7 @@ const initialSkillCategories: SkillCategory[] = [
       en: 'Design',
       de: 'Design'
     },
-    skills: ['Figma', 'Photoshop', 'Illustrator', 'Canva', 'Tilda', 'InDesign', 'Sketch']
+    skills: ['Figma', 'Photoshop', 'Illustrator', 'Canva', 'Tilda', 'InDesign']
   },
   {
     id: '2',
@@ -149,7 +149,7 @@ const initialSkillCategories: SkillCategory[] = [
       en: 'Development',
       de: 'Entwicklung'
     },
-    skills: ['CSS', 'TailwindCSS', 'HTML', 'Python', 'Django', 'Flask', 'Next.js', 'React', 'Vue.js', 'Node.js', 'TypeScript', 'JavaScript']
+    skills: ['CSS', 'TailwindCSS', 'HTML', 'Python', 'Django', 'Vue.js', 'JavaScript']
   },
   {
     id: '3',
@@ -167,7 +167,7 @@ const initialSkillCategories: SkillCategory[] = [
       en: 'Audio Production',
       de: 'Audio-Produktion'
     },
-    skills: ['Ableton Live', 'FL Studio', 'Reaper', 'Cubase', 'Logic Pro', 'Pro Tools', 'Audacity']
+    skills: ['Ableton Live', 'FL Studio', 'Logic Pro']
   },
   {
     id: '5',
@@ -176,7 +176,7 @@ const initialSkillCategories: SkillCategory[] = [
       en: 'Video & Motion',
       de: 'Video & Motion'
     },
-    skills: ['After Effects', 'Premiere Pro', 'DaVinci Resolve', 'Final Cut Pro', 'Blender', 'Cinema 4D']
+    skills: ['After Effects', 'Premiere Pro', 'DaVinci Resolve', 'Final Cut Pro', 'Blender']
   },
   {
     id: '6',
@@ -185,7 +185,7 @@ const initialSkillCategories: SkillCategory[] = [
       en: 'Technical Skills',
       de: 'Technische Fähigkeiten'
     },
-    skills: ['Git & GitHub', 'Docker', 'Linux/Unix', 'AWS/Cloud', 'Database Design', 'API Development', 'CI/CD', 'Terminal/CLI']
+    skills: ['Git & GitHub', 'Docker', 'Linux', 'Database Design', 'API Development', 'CI/CD', 'Terminal/CLI']
   },
   {
     id: '7',
@@ -194,7 +194,7 @@ const initialSkillCategories: SkillCategory[] = [
       en: 'Project Management',
       de: 'Projektmanagement'
     },
-    skills: ['Agile/Scrum', 'Kanban', 'Jira', 'Trello', 'Notion', 'Slack', 'Teams', 'Time Management', 'Resource Planning']
+    skills: [ 'Obsidian', 'Teams', 'Time Management', 'Resource Planning']
   }
 ];
 
