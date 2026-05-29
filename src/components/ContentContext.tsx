@@ -101,8 +101,8 @@ const initialPortfolioItems: PortfolioItem[] = [
       en: 'My creative project as songwriter and artist',
       de: 'Mein kreatives Projekt als Songwriter und Künstler'
     },
-    image: '/images/portfolio/pill.jpeg',
-    link: 'https://vimeo.com/1196573265?fl=sm&fe=ec'
+    image: '/images/portfolio/pill preview.png',
+    link: 'https://vimeo.com/showcase/12265042?video=1196573265'
   },
 {
   id: '5',
