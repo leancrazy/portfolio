@@ -46,7 +46,7 @@ const translations = {
     'experience.photoshop': "Photoshop — Retouching, posters & compositing",
     'experience.blender': "Blender — 3D hard-surface, lighting & product renders",
     'experience.sound': "Sound engineering — Recording, mixing & post",
-    'experience.video': "Music video editing — Creative cut & post-production"
+    'experience.video': "Music video editing — Creative cut & post-production",
     
     
     // Contact Section
@@ -100,7 +100,7 @@ const translations = {
     'experience.photoshop': "Photoshop — Retusche, Poster & Compositing",
     'experience.blender': "Blender — 3D Hard-Surface, Lighting & Produkt-Renderings",
     'experience.sound': "Sound Engineering — Recording, Mixing & Post",
-    'experience.video': "Musikvideo-Schnitt — Kreativer Cut & Postproduktion"
+    'experience.video': "Musikvideo-Schnitt — Kreativer Cut & Postproduktion",
 
 
     
