@@ -59,8 +59,8 @@ const initialPortfolioItems: PortfolioItem[] = [
       de: 'Web Entwicklung Portfolio page (Vercel/react)'
     },
     description: {
-      en: 'A personal portfolio website built with React and deployed on Vercel to showcase design and development projects.',
-      de: 'Eine persönliche Portfolio-Website, erstellt mit React und auf Vercel bereitgestellt, um Design- und Entwicklungsprojekte zu präsentieren.'
+      en: 'This personal portfolio website built with React and deployed on Vercel to showcase design and development projects.',
+      de: 'Diese persönliche Portfolio-Website, erstellt mit React und auf Vercel bereitgestellt, um Design und Entwicklungsprojekte zu präsentieren.'
     },
     image: '/images/portfolio/alfred-portfolio.png',
     link: '#'
@@ -81,28 +81,28 @@ const initialPortfolioItems: PortfolioItem[] = [
   {
     id: '3',
     title: {
-      en: '2D Graphic Design (Photoshop)',
-      de: '2D‑Grafikdesign (Photoshop)'
+      en: 'Video Production',
+      de: 'Video Produktion'
     },
     description: {
-      en: 'Posters, promo assets, photo retouching and compositing.',
-      de: 'Poster, Promo‑Assets, Fotoretusche und Compositing.'
+      en: 'shoot, produced and edited video content for various projects.',
+      de: 'Gefilmt, produziert und bearbeitet Videoinhalte für verschiedene Projekte.'
     },
-    image: '/images/portfolio/2xdonate.jpeg',
-    link: 'https://www.figma.com/board/fU2P2Vg1moT018IPE4hUku/Alfred-Klimov-Portfolio?node-id=0-1&p=f&t=rrYyfGgfMcV40GMb-0'
+    image: '/images/portfolio/videoproduktion.png',
+    link: 'https://vimeo.com/showcase/12265042?share=copy&fl=sm&fe=fe'
   },
 {
     id: '4',
     title: {
-      en: 'Music Video Editing',
-      de: 'Musikvideo-Schnitt'
+      en: 'Music Video Production',
+      de: 'Musikvideo Produktion'
     },
     description: {
-      en: 'Creative editing and post-production of a music video project.',
-      de: 'Kreativer Schnitt und Postproduktion eines Musikvideoprojekts.'
+      en: 'My creative project as songwriter and artist',
+      de: 'Mein kreatives Projekt als Songwriter und Künstler'
     },
-    image: '/images/portfolio/clip.jpeg',
-    link: '/images/portfolio/clip.mp4'
+    image: '/images/portfolio/pill.jpeg',
+    link: 'https://vimeo.com/1196573265?fl=sm&fe=ec'
   },
 {
   id: '5',

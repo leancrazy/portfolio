@@ -35,8 +35,19 @@ const translations = {
     // Experience Section
     'experience.title': "Experience",
     'experience.ahead': "Ahead Media — Internship, Graphic Design",
-    'experience.catering': "Catering — Team Member", 
+    'experience.catering': "Catering — Team Member",
     'experience.freelance': "Freelance Projects — Web Design & Development, Creative Projects",
+
+    // NEW
+    'experience.laguna': "Laguna Paradise — Booking platform (UI/UX & integration)",
+    'experience.capital8': "Capital8 — Crypto landing & platform UI (Figma)",
+    'experience.dotwallet': "DOT Wallet — Crypto–fiat gateway (design system & flows)",
+    'experience.magicwipes': "Magic Wet Wipes — Branding, packaging, promo materials",
+    'experience.photoshop': "Photoshop — Retouching, posters & compositing",
+    'experience.blender': "Blender — 3D hard-surface, lighting & product renders",
+    'experience.sound': "Sound engineering — Recording, mixing & post",
+    'experience.video': "Music video editing — Creative cut & post-production"
+    
     
     // Contact Section
     'contact.title': "Let's Connect",
@@ -81,6 +92,17 @@ const translations = {
     'experience.ahead': "Ahead Media — Praktikum, Grafikdesign",
     'experience.catering': "Catering — Teammitglied",
     'experience.freelance': "Freelance Projekte — Webdesign & Entwicklung, Kreative Projekte",
+
+    'experience.laguna': "Laguna Paradise — Buchungsplattform (UI/UX & Integration)",
+    'experience.capital8': "Capital8 — Krypto-Landing & Plattform-UI (Figma)",
+    'experience.dotwallet': "DOT Wallet — Krypto-Fiat-Gateway (Designsystem & Flows)",
+    'experience.magicwipes': "Magic Wet Wipes — Branding, Verpackung, Promo-Materialien",
+    'experience.photoshop': "Photoshop — Retusche, Poster & Compositing",
+    'experience.blender': "Blender — 3D Hard-Surface, Lighting & Produkt-Renderings",
+    'experience.sound': "Sound Engineering — Recording, Mixing & Post",
+    'experience.video': "Musikvideo-Schnitt — Kreativer Cut & Postproduktion"
+
+
     
     // Contact Section
     'contact.title': "Lass uns verbinden",
