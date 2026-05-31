@@ -89,7 +89,7 @@ const initialPortfolioItems: PortfolioItem[] = [
       de: 'Gefilmt, produziert und bearbeitet Videoinhalte für verschiedene Projekte.'
     },
     image: '/images/portfolio/videoproduktion.png',
-    link: 'https://vimeo.com/showcase/12265042?share=copy&fl=sm&fe=fe'
+    link: 'https://drive.google.com/drive/folders/19Da8cUcU6r7lLcaJd2kwbF0e1NDIn07D?usp=sharing'
   },
 {
     id: '4',
@@ -102,7 +102,7 @@ const initialPortfolioItems: PortfolioItem[] = [
       de: 'Mein kreatives Projekt als Songwriter und Künstler'
     },
     image: '/images/portfolio/pill preview.png',
-    link: 'https://vimeo.com/showcase/12265042?video=1196573265'
+    link: 'https://drive.google.com/file/d/15r3SsIgXRXosh7zK_SNKd4EAn4KDZ500/view?usp=sharing'
   },
 {
   id: '5',
